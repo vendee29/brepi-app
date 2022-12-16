@@ -1,5 +1,5 @@
 # Brepi app
-Frontend built with React JS, Ant Design and Punk API
+A frontend app displaying fetched beer info built with React JS, Ant Design and Punk API.
 
 The app displays cards with Beer info collected from the Punk API.
 
