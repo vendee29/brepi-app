@@ -1,2 +1,19 @@
 .App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading {
+    font-family: 'Finger Paint', cursive;
+}
+
+:where(.css-dev-only-do-not-override-1ij74fp).ant-pagination .ant-pagination-item-active a {
+    color: black;
+}
+
+:where(.css-dev-only-do-not-override-1ij74fp).ant-pagination .ant-pagination-item-active {
+    font-weight: 600;
+    background-color: #ffffff77;
+    border-color: #000000;
 }
